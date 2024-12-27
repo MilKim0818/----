@@ -19,3 +19,8 @@ $ wget https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/l
 $ unzip chromedriver-linux64.zip
 $ sudo mv chromedriver-linux64/chromedriver /usr/bin/chromedriver
 ```
+
+* 크롬 드라이버 버전 확인
+```
+$ chromedriver --version
+```
